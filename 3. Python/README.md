@@ -1,1 +1,1 @@
-백준 Python 풀이
+백준 Python 문제풀이
